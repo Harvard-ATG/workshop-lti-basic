@@ -87,7 +87,7 @@ function lmsdataToggle() {
   echo("<fieldset><legend>BasicLTI Resource</legend>\n");
   $disabled = '';
   echo("Launch URL: <input size=\"60\" type=\"text\" $disabled size=\"60\" name=\"endpoint\" value=\"$endpoint\">\n");
-  echo("<br/>Key: <input type\"text\" name=\"key\" $disapbled size=\"60\" value=\"$key\">\n");
+  echo("<br/>Key: <input type\"text\" name=\"key\" $disabled size=\"60\" value=\"$key\">\n");
   echo("<br/>Secret: <input type\"text\" name=\"secret\" $disabled size=\"60\" value=\"$secret\">\n");
   echo("</fieldset><p>");
   echo("<fieldset><legend>Launch Data</legend>\n");
