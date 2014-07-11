@@ -1,6 +1,6 @@
 workshop-lti-basic
 ==================
 
-HUIT LTI Workshop Materials
+Teaching and Learning Technologies LTI Workshop Materials
 
 
